@@ -1,50 +1,27 @@
+<h1 align="center">Hi 👋, I'm Ruth Shimeles</h1>
+<h3 align="center">Aspiring embedded systems & backend developer</h3>
 
-# 👋 Hi there! I'm Ruth Shimeles.
+- 🔭 I’m currently working on **EcoQuake – Weather Station Monitoring System**
 
-🎓 Electrical & Computer Engineering Student  
-🔧 Backend Developement student | 💡 Embedded Systems Enthusiast  
-⚙️ Passionate about Control Technologies & Real-World Problem Solving  
+- 🌱 I’m currently learning **django,Node.js**
 
----
+- 👯 I’m looking to collaborate on **Smart City Projects & IoT Systems**
 
-## 🚀 Projects
+- 🤝 I’m looking for help with **Expanding Eco Quake with IoT-based dashboards**
 
-### 🔌 Smart Bench for Smart City
-A solar-powered public bench with WiFi and phone charging capabilities.  
-**Tech:** Arduino, C++, Solar Power, Embedded Design  
-> Designed to support smart city infrastructure and green energy adoption.
+- 👨‍💻 All of my projects are available at [https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit](https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit)
 
-### 🌦️ Weather Station Monitoring System
-An Arduino-based weather station that tracks temperature, light levels, and earthquake vibrations.  
-**Tech: ** Arduino IDE, DHT22, RTC module, LDR, vibration sensor, buzzer  
-> Built for environmental awareness and early warning systems.
+- 💬 Ask me about **Arduino, Control Systems, Backend APIs, C++**
 
-### 🎹 Mini Piano
-A fun and simple electronic piano built with Arduino.  
-**Tech:** Arduino, C++, push buttons, LCD 
-> A creative project exploring sound generation and hardware input/output.
+- 📫 How to reach me **ruthshimelesgetachew73@gmail.com**
 
----
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FRnRejBVTPxHydbVxKxayWS3w2vMvEZ6/view?usp=drive_link](https://drive.google.com/file/d/1FRnRejBVTPxHydbVxKxayWS3w2vMvEZ6/view?usp=drive_link)
 
-## 🛠️ Tech Stack
+- ⚡ Fun fact **I once made a piano out of pushbuttons, Arduino,LCD,wires, and a dream 🎶**
 
-**Languages:**  
-C++ | Python | Java | JavaScript  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-**Tools & Platforms:**  
-Arduino IDE | MATLAB | Git & GitHub  
-
-**Fields of Interest:**  
-- Industrial Control Systems
-- Embedded Systems
-- Backend Development  
-- Real-Time Data Monitoring  
-
----
-
-## 📫 Let's Connect!
-
-- 💼 LinkedIn: www.linkedin.com/in/ruth-shimeles
-- 📧 Email: ruthshimelesgetachew73@gmail.com
-- 📄 Resume/CV: https://drive.google.com/file/d/1FRnRejBVTPxHydbVxKxayWS3w2vMvEZ6/view?usp=drive_link 
-- 🌐 Portfolio : https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
