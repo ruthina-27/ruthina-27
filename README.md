@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruth Shimeles</h1>
-<h3 align="center">Aspiring embedded systems & backend developer</h3>
+<h3 align="center"> Embedded systems & backend developer</h3>
 
 - 🔭 I’m currently working on **Embedded systems**
 
