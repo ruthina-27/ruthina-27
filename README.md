@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ruth Shimeles</h1>
 <h3 align="center">Aspiring embedded systems & backend developer</h3>
 
-- 🔭 I’m currently working on **EcoQuake – Weather Station Monitoring System**
+- 🔭 I’m currently working on **Embedded systems**
 
 - 🌱 I’m currently learning **django,Node.js**
 
 - 👯 I’m looking to collaborate on **Smart City Projects & IoT Systems**
 
-- 🤝 I’m looking for help with **Expanding Eco Quake with IoT-based dashboards**
+- 🤝 I’m looking for help with **Expanding my projects IoT-based dashboards**
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit](https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit)
 
@@ -16,8 +16,6 @@
 - 📫 How to reach me **ruthshimelesgetachew73@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1FRnRejBVTPxHydbVxKxayWS3w2vMvEZ6/view?usp=drive_link](https://drive.google.com/file/d/1FRnRejBVTPxHydbVxKxayWS3w2vMvEZ6/view?usp=drive_link)
-
-- ⚡ Fun fact **I once made a piano out of pushbuttons, Arduino,LCD,wires, and a dream 🎶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
