@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Embedded systems**
 
-- 🌱 I’m currently learning **django,Node.js**
+- 🌱 I’m currently learning **django**
 
 - 👯 I’m looking to collaborate on **Smart City Projects & IoT Systems**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit](https://sites.google.com/d/19s1-_rSOWA3F9Wsv0VxhPa10CIJjs2ym/p/1it7IqIOxnYn1M0XxJ-QBkOIMiiIRAePx/edit)
 
-- 💬 Ask me about **Arduino, Control Systems, Backend APIs, C++**
+- 💬 Ask me about **Arduino, Control Systems, Backend APIs, C++, ML**
 
 - 📫 How to reach me **ruthshimelesgetachew73@gmail.com**
 
