@@ -17,6 +17,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1geBocqkP8n6L76QgZYsoUf7VQiOaub0a/view?usp=sharing](https://drive.google.com/file/d/1geBocqkP8n6L76QgZYsoUf7VQiOaub0a/view?usp=sharing)]
 
+- Let's connect www.linkedin.com/in/ruth-shimeles 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
